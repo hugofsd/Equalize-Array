@@ -1,6 +1,6 @@
 
 print("----------------------------------------------------------------------")
-print("                             INTRUÇÕES!                               ")
+print("                             INSTRUÇÕES!                               ")
 print("1) Digite 20 numeros(pixels), com um traço entre os numeros para")
 print("contruir o vetor.")
 print("2)Exemplo, copie (Ctrl+C) e cole (Ctrl + botão diteirto do mouse)")
